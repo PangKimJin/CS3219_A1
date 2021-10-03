@@ -1,0 +1,7 @@
+2021/09/01 16:12:33 [error] 14292#1112: *1 CreateFile() "D:\Downloads\nginx-1.20.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/09/01 16:24:05 [warn] 9944#17884: "user" is not supported, ignored in C:\Users\KJ\Documents\Werk\CS3219\Assignment\Task_A\nginx/conf/nginx.conf:1
+2021/09/01 16:24:05 [emerg] 9944#17884: CreateFile() "C:/etc/nginx/mime.types" failed (3: The system cannot find the path specified) in C:\Users\KJ\Documents\Werk\CS3219\Assignment\Task_A\nginx/conf/nginx.conf:9
+2021/09/01 16:25:10 [warn] 25372#12032: "user" is not supported, ignored in C:\Users\KJ\Documents\Werk\CS3219\Assignment\Task_A\nginx/conf/nginx.conf:1
+2021/09/01 16:25:10 [emerg] 25372#12032: CreateFile() "C:/etc/nginx/mime.types" failed (3: The system cannot find the path specified) in C:\Users\KJ\Documents\Werk\CS3219\Assignment\Task_A\nginx/conf/nginx.conf:9
+2021/09/01 16:25:15 [warn] 10012#12680: "user" is not supported, ignored in C:\Users\KJ\Documents\Werk\CS3219\Assignment\Task_A\nginx/conf/nginx.conf:1
+2021/09/01 16:25:15 [emerg] 10012#12680: CreateFile() "C:/etc/nginx/mime.types" failed (3: The system cannot find the path specified) in C:\Users\KJ\Documents\Werk\CS3219\Assignment\Task_A\nginx/conf/nginx.conf:9
